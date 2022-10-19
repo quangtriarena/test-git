@@ -12,3 +12,4 @@ const token2 = {
 let data = JSON.parse(localStorage.clear("token2 name "));
 console.log(123)
 console.log(data);
+console.log(244);
