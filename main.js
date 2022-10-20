@@ -13,3 +13,4 @@ let data = JSON.parse(localStorage.clear("token2 name "));
 console.log("abc");
 console.log(data);
 console.log(244);
+console.log("test commit");
